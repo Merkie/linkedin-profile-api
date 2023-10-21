@@ -1,7 +1,5 @@
 # LinkedIn Profile API
 
----
-
 Programatically collect information from LinkedIn profiles without authentication or headless browsers.
 
 ## Usage:
